@@ -36,8 +36,7 @@ This repository contains a curated collection of hands-on projects demonstrating
 - End-to-end CI/CD workflow: Code push → Docker build → Automated deployment on AWS EC2.  
 - Technologies: Flask, Docker, GitHub Actions, AWS EC2, Gunicorn.  
 - Live Deployment: `http://<your-ec2-ip>` (replace with your instance URL)  
-- GitHub Actions Badge: ![CI/CD](https://github.com/<username>/<repo>/actions/workflows/<workflow-file>.yml/badge.svg?branch=<branch-name>)
-
+- GitHub Actions Badge: ![CI/CD](https://github.com/sanyamjcloud/flask-app-ci-cd-docker-pipeline/actions/workflows/deploy.yml/badge.svg?branch=main)
 This project demonstrates real-world deployment pipelines, containerized applications, and automation workflows.
 
 ---
