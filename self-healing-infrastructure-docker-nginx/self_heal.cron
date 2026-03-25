@@ -1,0 +1,1 @@
+* * * * * root /usr/local/bin/self_heal.sh >> /var/log/self_heal.log 2>&1
